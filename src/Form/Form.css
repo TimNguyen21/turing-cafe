@@ -1,0 +1,7 @@
+.reservation-form {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 1em;
+  background-color: #3295c9;
+}

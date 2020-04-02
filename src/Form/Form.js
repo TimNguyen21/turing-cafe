@@ -34,7 +34,7 @@ export default class Form extends Component {
 
   render() {
     return(
-      <form>
+      <form className="reservation-form">
         <input
           type="text"
           placeholder="name"
