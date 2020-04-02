@@ -3,7 +3,7 @@ import "./Card.css"
 
 const Card = ({id, name, date, time, numberOfGuest }) => {
   return(
-    <section>
+    <section className="reservation-card">
       <h1>{ name }</h1>
       <p>{ date }</p>
       <p>{ time }</p>
